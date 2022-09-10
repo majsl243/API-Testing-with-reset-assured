@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8807" started-at="2020-08-31T22:34:47 EEST" finished-at="2020-08-31T22:34:56 EEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8807" started-at="2020-08-31T22:34:47 EEST" finished-at="2020-08-31T22:34:56 EEST">
+      <class name="com.iqvia.practicalAssessment.spec.CapitalApi">
+        <test-method status="PASS" signature="verify_api_response_for_existing_capital()[pri:0, instance:com.iqvia.practicalAssessment.spec.CapitalApi@15d0c81b]" name="verify_api_response_for_existing_capital" duration-ms="8277" started-at="2020-08-31T22:34:47 EEST" finished-at="2020-08-31T22:34:56 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_api_response_for_existing_capital -->
+        <test-method status="PASS" signature="verify_api_response_schema_for_non_existing_capital()[pri:0, instance:com.iqvia.practicalAssessment.spec.CapitalApi@15d0c81b]" name="verify_api_response_schema_for_non_existing_capital" duration-ms="501" started-at="2020-08-31T22:34:56 EEST" finished-at="2020-08-31T22:34:56 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_api_response_schema_for_non_existing_capital -->
+      </class> <!-- com.iqvia.practicalAssessment.spec.CapitalApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
